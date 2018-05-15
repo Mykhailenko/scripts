@@ -4,7 +4,7 @@ declare -a names=("Gleb"          "Justine" "Brian"   "Fabien"    "Marco"       
 
 declare -a logins=("Mykhailenko"   "jrochas" "bamedro" "fviale"    "marcocast"     "paraita" "vinseon" "ShatalovYaroslav"  "pedrovelho"    "MaelAudren")
 
-declare -a repos=("scheduling" "scheduling-portal" "scheduling-api" "studio" "documentatio" "jsr223-scala" "programming")
+declare -a repos=("scheduling" "scheduling-portal" "scheduling-api" "studio" "documentation" "jsr223-scala" "programming")
 
 currentDir=$(pwd)
 
